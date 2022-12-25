@@ -8,7 +8,7 @@ National: Chinese ;
 Project Name: Dos Attack ;
 Education: Fifth Grade of Primary School
 
-# English Final version - 2.0:
+# English Final version - 2.0
 Editor: HQmonkey ;
 Date: 2022.12.25 ;
 National: English ;
