@@ -1,5 +1,5 @@
 # dos-attack
-don't play a trick with it! JUST FOR STUDY
+JUST FOR STUDY!
 
 # Chinese version
 Author: Lucky Pupil ;
@@ -8,7 +8,8 @@ National: Chinese ;
 Project Name: Dos Attack ;
 Education: Fifth Grade of Primary School
 
-# English Final version - 2.0
+# English version (bug fixed) - 2.0
+Author: Lucky Pupil ;
 Editor: HQmonkey ;
 Date: 2022.12.25 ;
 National: English ;
